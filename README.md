@@ -14,7 +14,8 @@
 
 # 
 
-# \- \*\*SQL/\*\* – Notes, practice files, and exercises related to SQL.
+# \- \*\*SQL/\*\* – Notes, practice files, and certificate related to SQL.
+# \- \*\*POWERBI-DAX QUERY/\*\* – Notes, practice file, and certificate related to POWERBI DAX.
 
 # \- \*(Future folders will be added as I continue learning.)\*
 
